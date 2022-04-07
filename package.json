@@ -1,0 +1,31 @@
+{
+  "name": "@paulhartono/open-closed-principle",
+  "version": "0.0.1",
+  "description": "Open Close Principle Code Challenge",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulhartono/open-closed-principle.git"
+  },
+  "keywords": [
+    "Release",
+    "Retention"
+  ],
+  "author": "Paul Hartono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulhartono/open-closed-principle/issues"
+  },
+  "homepage": "https://github.com/paulhartono/open-closed-principle#readme",
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.3",
+    "ts-node": "^10.6.0",
+    "typescript": "^4.6.2"
+  }
+}
