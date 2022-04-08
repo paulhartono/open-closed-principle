@@ -1,4 +1,4 @@
-# Open-Close Principle
+# Open-Closed Principle
 
 **[Open-Closed Pricinple](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#open-closed-principle)** is the 2nd principle of the Object Oriented Design in the [SOLID](https://en.wikipedia.org/wiki/SOLID) Principles.
 
